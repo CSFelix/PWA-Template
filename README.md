@@ -1,6 +1,6 @@
 ### 👋 PWAs Template 👋
 
-> **Simple template to transform your projects into Progressive Web Applications (PWAs)**
+> **Simple template to transform your web projects into Progressive Web Applications (PWAs)**
 
 ----
 ### `📫 Reach Me 📫`
