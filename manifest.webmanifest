@@ -1,0 +1,18 @@
+{
+    "short_name": "about iv2",
+    "name": "college iv2",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#f8f8ff",
+    "theme-color": "#f8f8ff",
+    "background_color": "#363636",
+    "background-color": "#363636",
+    "description": "My Test Project PWA",
+    "icons": [
+        {
+            "src": "images/logo.png",
+            "type": "image/png",
+            "sizes": "250x250"
+        }
+    ]
+}
